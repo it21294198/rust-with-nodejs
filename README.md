@@ -29,6 +29,9 @@ npm i
 node index.js
 ```
 
+### Result
+![Test Image](/images/result.png)
+
 [Mesure Time in Nodejs](https://dev.to/saranshk/how-to-measure-javascript-execution-time-5h2#:~:text=The%20easiest%20way%20to%20track,the%20difference%20of%20the%20two.)
 
 Make sure that your Rust code is compiled into a shared library (.dylib on macOS, .so on Linux, .dll on Windows) and that the path to the library is correctly specified in your Node.js script.
