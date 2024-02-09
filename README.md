@@ -22,6 +22,8 @@ cargo build --release
 ```bash
 npm i
 ```
+[npm install ffi-napi](https://www.npmjs.com/package/ffi-napi?activeTab=readme)
+
 3.For final result
 ```bash
 node index.js
