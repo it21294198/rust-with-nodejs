@@ -9,7 +9,7 @@ const add_two_numbers_js = (n1,n2) => {
     return n1+n2;
 }
 
-const fib_number = 40
+const fib_number = 43
 const fib_js = (n) => {
     if(n<=1){
         return n
