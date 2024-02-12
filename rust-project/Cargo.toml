@@ -10,3 +10,7 @@ crate-type = ["rlib","cdylib"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+
+[[test]]
+name = "main_test"
+path = "src/tests/test_file.rs"

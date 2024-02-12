@@ -18,6 +18,10 @@ cargo run
 ```bash
 cargo build --release
 ```
+#### if needed run
+```bash
+cargo test
+```
 2.Go to `node-project` and excute following
 ```bash
 npm i

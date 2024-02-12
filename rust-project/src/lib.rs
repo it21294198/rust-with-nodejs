@@ -16,7 +16,9 @@ pub extern fn fib(n:i32)->i32{
 
 // !unit testing for rust
 #[cfg(test)]
+// *Now the tests is childe component of lib file
 mod tests {
+    // *import the functions inside parent component
     use super::*;
 
     #[test]
